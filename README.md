@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a passionate full stack web/software developer.
+I'm a dedecated, hardworking and passionate full stack web/software developer. I'm always open to learning and collaborating.
 
 
 ## 🔗 Links
