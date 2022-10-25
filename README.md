@@ -10,7 +10,7 @@ I'm a dedecated, hardworking and passionate full stack web/software developer. I
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:/https://portfolio.eddieosas.repl.co)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/Enduranceosas)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EddieOsas?s=09)
-Contact me directly @ osascodes@gmail.com
+
 
 
 ## 🛠 Skills
@@ -21,5 +21,5 @@ HTML, CSS and Javascript.
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 ## Support
 
-For support, email osascodes@gmail.com.com
+For support, contact me directly @ osascodes@gmail.com
 
