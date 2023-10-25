@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a dedicated, hardworking and passionate full stack web/software developer. I'm always open to learning and collaborating.
+I'm a dedicated, hardworking and passionate frontend web/software developer. I'm always open to learning and collaborating.
 
 
 ## 🔗 Links
